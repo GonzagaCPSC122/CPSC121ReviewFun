@@ -1,3 +1,5 @@
+// this is a comment
+
 #include "vecfuncs.h"
 
 int main() {
